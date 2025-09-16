@@ -1,4 +1,4 @@
 [
-	{"stationName": "Fallout FM", "url": "http://fallout.fm:8000/falloutfm1.ogg"},
-	{"stationName": "Vietnam Vet Radio", "url": "http://c25.radioboss.fm:8351/autodj"}
+	{"stationName": "Fallout FM", "url": "http://fallout.fm:8000/falloutfm1.ogg", "probeUrl": "http://fallout.fm:8000"},
+	{"stationName": "Vietnam Vet Radio", "url": "http://c25.radioboss.fm:8351/autodj", "probeUrl": "http://c25.radioboss.fm:8351"}
 ]
